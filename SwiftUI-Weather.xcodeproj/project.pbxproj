@@ -21,6 +21,7 @@
 		85D99ABC2B01C7D7007AD3FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85D99ABF2B01C7D7007AD3FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		85D99AC62B01FA34007AD3FD /* WeatherButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherButton.swift; sourceTree = "<group>"; };
+		85FC1B322B032772004F4270 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		85D99AAC2B01C7D5007AD3FD = {
 			isa = PBXGroup;
 			children = (
+				85FC1B322B032772004F4270 /* README.md */,
 				85D99AB72B01C7D5007AD3FD /* SwiftUI-Weather */,
 				85D99AB62B01C7D5007AD3FD /* Products */,
 			);
