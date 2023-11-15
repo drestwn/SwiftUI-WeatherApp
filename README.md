@@ -1,8 +1,8 @@
 #  SwiftUI - Weather App
 
-This repository is for education purposes for learnign SwiftUI
+This repository is for educational purposes, aimed at learning SwiftUI. SF Symbols 5 is used for the icons.
 
-Currently the data is static. Soon will be updated with free API
+Currently, the data is static and will soon be updated with a free API.
 
 
 
